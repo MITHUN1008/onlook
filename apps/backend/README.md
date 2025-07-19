@@ -14,17 +14,17 @@ We will offer this as a hosted instance at some point. Ideally, the product shou
 2. Install necessary packages
 
 ```bash
-npm install
+bun install
 ```
 
 3. Run the supabase instance locally
 
 ```bash
-npm run start
+bun run start
 ```
 
 4. Set up the latest snapshot of the database
 
 ```bash
-npm run reset
+bun run reset
 ```
